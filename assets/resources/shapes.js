@@ -1,0 +1,1 @@
+window.shapes_ui214648a6 = function() { return {};}
